@@ -1,0 +1,18 @@
+platform,monthly_active_users_billions,year_over_year_growth_pct,avg_daily_time_minutes,primary_age_group,primary_content_format,avg_engagement_rate_pct,social_commerce_adoption_pct,headquarters_country,founded_year,data_source
+Facebook,3.07,2.5,33,25-34,Mixed/Video,1.5,60.9,USA,2004,Statista/Meta
+Instagram,3.0,13.0,35,18-34,Reels/Stories,2.2,35.0,USA,2010,Meta/Reuters
+YouTube,2.58,5.5,48,18-49,Long/Short Video,1.9,22.0,USA,2005,Statista
+WhatsApp,3.0,4.0,28,25-44,Messaging,0.0,15.0,USA,2009,Meta
+TikTok,1.99,17.0,58,18-24,Short-Form Video,2.8,43.8,China,2016,Statista
+WeChat,1.41,1.5,30,25-44,Messaging/Social,0.0,45.0,China,2011,Statista
+Telegram,1.0,12.0,18,18-34,Messaging,0.0,5.0,UAE,2013,Telegram Blog
+Messenger,0.94,2.0,15,25-34,Messaging,0.0,10.0,USA,2011,Meta
+Snapchat,0.93,8.0,30,13-24,Stories/AR,1.8,8.0,USA,2011,Snap Inc.
+Reddit,0.77,15.0,24,18-34,Text/Links,2.5,3.0,USA,2005,Reddit Inc.
+Pinterest,0.58,10.0,14,25-44,Images/Pins,1.6,25.0,USA,2010,Pinterest Inc.
+X (Twitter),0.56,-3.0,22,25-34,Text/Threads,1.4,5.0,USA,2006,Statista
+LinkedIn,0.33,14.0,11,25-54,Professional/Articles,2.0,8.0,USA,2003,LinkedIn/Microsoft
+Bluesky,0.04,85.0,8,25-44,Text/Micro-blog,1.7,1.0,USA,2023,Bluesky Blog
+RedNote,0.3,45.0,25,18-24,Lifestyle/Shopping,2.3,40.0,China,2013,iiMedia
+Threads,0.2,35.0,12,18-34,Text/Micro-blog,1.9,3.0,USA,2023,Meta
+Discord,0.2,18.0,40,18-24,Text/Voice,0.0,2.0,USA,2015,Discord Inc.
